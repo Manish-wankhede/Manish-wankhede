@@ -23,7 +23,7 @@ I am a results-driven Software Engineer with a strong foundation in Java, HTML, 
 🔹 Experience in RESTful API development and database management.
 🔹 Ability to build real-time web applications with optimized performance.
 
-📩 Let's connect to discuss tech, innovations, and career opportunities! 'patilnitesh1312@gmail.com'
+📩 Let's connect to discuss tech, innovations, and career opportunities! 'manishwankhede1952002@mail.com'
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
