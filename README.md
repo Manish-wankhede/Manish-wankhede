@@ -56,8 +56,8 @@ I am a results-driven Software Engineer with a strong foundation in Java, HTML, 
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitesh6354&show_icons=true&locale=en&layout=compact" alt="nitesh6354" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manish-wankhede&show_icons=true&locale=en&layout=compact" alt="Manish-wankhede" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitesh6354&show_icons=true&locale=en" alt="nitesh6354" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Manish-wankhede&show_icons=true&locale=en" alt="Manish-wankhede" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh6354&" alt="nitesh6354" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manish-wankhede&" alt="Manish-wankhede" /></p>
