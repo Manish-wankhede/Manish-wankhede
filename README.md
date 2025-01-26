@@ -30,7 +30,9 @@ I am a results-driven Software Engineer with a strong foundation in Java, HTML, 
 <p align="left">
 <a href="https://www.linkedin.com/in/manish-wankhede-65582b246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manish-wankhede-65582b246" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Manish-wankhede" height="30" width="40" /></a>
-<a href="#" target="blank"></a>
+<a href="https://leetcode.com/ManishWankhede_123/" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Profile" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
