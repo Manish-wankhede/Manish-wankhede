@@ -24,7 +24,7 @@ I am a Software Engineer with a strong foundation in Java, HTML, CSS, JavaScript
 🔹 Experience in RESTful API development and database management.
 🔹 Ability to build real-time web applications with optimized performance.
 
-📩 Let's connect to discuss tech, innovations, and career opportunities! 'manishwankhede1952002@mail.com'
+📩 Let's connect to discuss tech, innovations, and career opportunities! manishwankhede1952002@mail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
