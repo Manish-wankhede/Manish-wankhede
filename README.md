@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Manish-wankhede", I'm Manish Wankhede</h1>
+<h1 align="center">Hi 👋 I'm Manish Wankhede</h1>
 <h3 align="center">As a Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Manish-wankhede&label=Profile%20views&color=0e75b6&style=flat" alt="Manish-wankhede" /> </p>
