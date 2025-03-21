@@ -54,8 +54,8 @@ I am a Software Engineer with a strong foundation in Java, HTML, CSS, JavaScript
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
-     <a href="https://www.springboot.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/springboot/springboot-original-wordmark.svg" alt="springboot" width="40" height="40"/>
+      <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="40" height="40"/>
   </a>
 </p>
 
