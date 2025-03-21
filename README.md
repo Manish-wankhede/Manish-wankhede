@@ -83,9 +83,9 @@ I am a Software Engineer with a strong foundation in Java, HTML, CSS, JavaScript
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Manish-wankhede&show_icons=true&locale=en" alt="Manish-wankhede" /></p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Manish-wankhede?label=Followers&style=social" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/Manish-wankhede?label=Stars&style=social" alt="GitHub Stars">
-  <img src="https://kom
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Manish-wankhede&layout=compact" alt="Wakatime Stats" />
+</p>
+
 
 
 
