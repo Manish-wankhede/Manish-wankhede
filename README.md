@@ -11,11 +11,11 @@ I am a Software Engineer with a strong foundation in Java, HTML, CSS, JavaScript
 
 🔹 Technical Expertise:
 
-✔ JAVA | Data Structure & Algorithm
+✔ Languages: JAVA | Data Structure & Algorithm
 
-✔ Frontend: HTML | CSS | JavaScript | Bootstrap
+✔ Frontend: HTML | CSS | JavaScript | Bootstrap | ReactJs
 
-✔ Database: MySQL
+✔ Database: MySQL | SQL | MongoDB
 
 ✔ Version Control: Git | GitHub
 
