@@ -77,7 +77,6 @@ I am a Software Engineer with a strong foundation in Java, HTML, CSS, JavaScript
 </p>
 
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manish-wankhede&show_icons=true&locale=en&layout=compact" alt="Manish-wankhede" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Manish-wankhede&show_icons=true&locale=en" alt="Manish-wankhede" /></p>
