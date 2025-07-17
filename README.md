@@ -15,9 +15,13 @@ I am a Software Engineer with a strong foundation in Java, HTML, CSS, JavaScript
 
 ✔ Frontend: HTML | CSS | JavaScript | Bootstrap | ReactJs
 
+✔ Backend: Spring | Spring boot | JDBC Connection Pooling | JSP Servlet | Hibernet | Rest API 
+
 ✔ Database: MySQL | SQL | MongoDB
 
 ✔ Version Control: Git | GitHub
+
+✔ Development Environment: VS Code | Eclipes | IntelliJ IDEA
 
 🎯 What I Bring:
 🔹 Strong problem-solving skills and understanding of data structures & algorithms.
