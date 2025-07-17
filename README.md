@@ -11,7 +11,7 @@ I am a Software Engineer with a strong foundation in Java, HTML, CSS, JavaScript
 
 🔹 Technical Expertise:
 
-✔ Languages: JAVA | Data Structure & Algorithm
+✔ Languages: Core JAVA | Object Oriented Programming
 
 ✔ Frontend: HTML | CSS | JavaScript | Bootstrap | ReactJs
 
