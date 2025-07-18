@@ -15,7 +15,7 @@ I am a Software Engineer with a strong foundation in Java, HTML, CSS, JavaScript
 
 ✔ Frontend: HTML | CSS | JavaScript | Bootstrap | ReactJs
 
-✔ Backend: Spring | Spring boot | JDBC Connection Pooling | JSP Servlet | Hibernet | Rest API 
+✔ Backend: Spring | JDBC Connection Pooling | JSP Servlet | Hibernet | Rest API | Spring boot
 
 ✔ Database: MySQL | SQL | MongoDB
 
